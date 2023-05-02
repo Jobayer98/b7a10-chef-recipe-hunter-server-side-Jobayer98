@@ -1,0 +1,410 @@
+[
+  {
+    "pizza": [
+      {
+        "id": 1,
+        "name": "Margherita",
+        "veg": true,
+        "price": 3,
+        "description": "Cheese",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/margherita.90f9451fd66871fb6f9cf7d506053f18.1.jpg?width=550"
+      },
+      {
+        "id": 2,
+        "name": "Tandoori Paneer",
+        "veg": true,
+        "price": 7,
+        "description": "Spiced paneeer, Onion,Green Capsicum & Red Paprika in Tandoori Sauce",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/tandoori-paneer.4ef45717e972cf45b43c010e3cde5a22.1.jpg?width=550"
+      },
+      {
+        "id": 3,
+        "name": "Veggie Supreme",
+        "veg": true,
+        "price": 8,
+        "description": "Black Olives,Green Capsicum, Mushroom, Onion,Red Paprika, Sweet Corn",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/veggie-supreme.bc8dd369182b636ff171077efa53c344.1.jpg?width=550"
+      },
+      {
+        "id": 4,
+        "name": "Double Paneer Supreme",
+        "veg": true,
+        "price": 6,
+        "description": "Spiced Paneer, Herbed Onion&Green Capsicum, Red Paprika",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/double-paneer-supreme.3cb382529b41d14d4a041b5cc5e64341.1.jpg?width=550"
+      },
+      {
+        "id": 4,
+        "name": "Veggie Kebab Surprise",
+        "veg": true,
+        "price": 4,
+        "description": "Veg Kebab,Onion,Green Capsicum,Tomato & Sweet Corn in Tandoori Sauce",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/veg-kebab-surprise.abab1dff179ab8cf95a59f30d6352297.1.jpg?width=550"
+      },
+      {
+        "id": 5,
+        "name": "Chicken Supreme",
+        "veg": false,
+        "price": 7,
+        "description": "Herbed Chicken,Schezwan Chicken Meatball,Chicken Tikka",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-supreme.6d53f104f071d304a47440f2fffa7378.1.jpg?width=550"
+      },
+      {
+        "id": 6,
+        "name": "Chicken Tikka Supreme",
+        "veg": false,
+        "price": 6,
+        "description": "Chicken Tikka,Chicken Malai Tikka,Onion,Red Paprika",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-tikka-supreme.830de5a911ca95a30e4ca98e529f1b3a.1.jpg?width=550"
+      },
+      {
+        "id": 7,
+        "name": "Triple Chicken Feast",
+        "veg": false,
+        "price": 8,
+        "description": "Schezwan Chicken Meatball Herbed Chicken,Chicken Sausage,Geen Capsicum, Onion,Red Paprika",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/triple-chicken-feast.e4a546e7a8581a60952b99e3fe22987e.1.jpg?width=550"
+      },
+      {
+        "id": 8,
+        "name": "Chicken Tikka",
+        "veg": false,
+        "price": 7,
+        "description": "Chicken Tikka, Onion, Tomato",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-tikka.6d441a65371e941db36c2754586119a8.1.jpg?width=550"
+      },
+      {
+        "id": 9,
+        "name": "Double Chicken Sausage",
+        "veg": false,
+        "price": 5,
+        "description": "Chicken Sausage",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/double-chicken-sausage.f172dd6a365e90e655258b17555e74ad.1.jpg?width=550"
+      },
+      {
+        "id": 10,
+        "name": "Spiced Chicken Meatballs",
+        "veg": false,
+        "price": 4,
+        "description": "Schezwan Chicken Meatball Onion",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-chicken-meatballs.abd238e81080106d181567a9b52844ae.1.jpg?width=550"
+      },
+      {
+        "id": 11,
+        "name": "Double Cheese",
+        "veg": true,
+        "price": 3,
+        "description": "Extra Cheese on Cheese",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/double-cheese.3c8885f8bc6f18facedc7626368f5105.1.jpg?width=550"
+      },
+      {
+        "id": 12,
+        "name": "Chicken Pepper Crunch",
+        "veg": false,
+        "price": 5,
+        "description": "Herbed Chicken, Onion, Green Capsicum, Red Capsicum ",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-pepper-crunch.624edb192601b73335e0100db5a6263a.1.jpg?width=550"
+      },
+      {
+        "id": 13,
+        "name": "Italian Chicken Feast",
+        "veg": false,
+        "price": 6,
+        "description": "Herbed Chicken, Onion, Green Capsicum, Red Capsicum ",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/italian-chicken-feast.edad91a082e9a16d677722a071487a1c.1.jpg?width=550"
+      },
+      {
+        "id": 14,
+        "name": "Corn & Cheese",
+        "veg": true,
+        "price": 5,
+        "description": "Cheese ,Sweet Corn",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/corn.f8baa08ad7f607f1de30f96bb9245b50.1.jpg?width=550"
+      },
+      {
+        "id": 15,
+        "name": "Tandoori Onion",
+        "veg": true,
+        "price": 6,
+        "description": "Cheese & Onion in Tandoori sause",
+        "quantity": 1,
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/tandoori-onion.98e8cbd306a1166cedbbdbd2a97eade3.1.jpg?width=550"
+      }
+    ]
+  },
+  {
+    "desserts": [
+      {
+        "id": 1,
+        "name": "Choco Sundae",
+        "price": 2,
+        "description": "Choco Sundae Cup (100 ml)",
+        "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Choco%20Sundae__0.webp?itok=Md5Ameuw",
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "name": "Cornetto Double Chocolate",
+        "price": 2,
+        "description": "Cornetto Double Chocolate Cone (105 ml)",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/cornetto-double-chocolate.acc21849ac732f2f85998ad73e532d40.1.jpg?width=522",
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Magnum Truffle",
+        "price": 4,
+        "description": "Magnum Truffle (80 ml)",
+        "img": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=480,h=480/app/images/products/sliding_image/450560a.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "name": "Divine Chocolate(Tub)",
+        "price": 6,
+        "description": "Divine Chocolate (700 ml)",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/divine-chocolate-tub.1df6b11e6e5d510cd11ae0d6e475686d.1.jpg?width=522",
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "name": "Choco Volcano Cake",
+        "price": 6,
+        "description": "Choco Delight With A Gooey Chocolate Volcano Centre",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/choco-volcano-cake.f829dc6e30a07b83f232b4880395162f.1.jpg",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "chicken": [
+      {
+        "id": "4",
+        "title": "Black bean and chicken burritos",
+        "difficulty": "Easy",
+        "portion": "Serves 4",
+        "time": "Hands-on time 30 min",
+        "description": "Use leftover roast chicken to make these thrifty and delicious chicken burritos. These filling burritos are packed with black beans, rice and guacamole.",
+        "ingredients": [
+          "1 tbsp vegetable oil",
+          "Bunch spring onions, finely chopped",
+          "2 garlic cloves, finely chopped",
+          "1 tsp cumin seeds",
+          "400g tin black beans in water, rinsed and drained",
+          "2 tsp smoked paprika",
+          "100g cooked rice",
+          "1 large avocado",
+          "Juice 1 lime",
+          "1 red chilli, finely chopped",
+          "150g ripe cherry tomatoes, roughly chopped",
+          "Bunch fresh coriander, roughly chopped, reserving a few whole leaves to serve",
+          "4 large flour tortillas",
+          "125g cooked chicken, shredded",
+          "100g mild cheddar, grated",
+          "Hot sauce such as Tabasco or Cholula to serve (optional)"
+        ],
+        "method": [
+          {
+            "Step 1": "Heat the oil in a frying pan, add the spring onions and cook for 3-4 minutes until beginning to soften. Stir in the garlic and cumin, cook for just a minute longer, then add the drained beans and paprika and cook for a further 3 minutes. Add a splash of water to the pan and, with a fork or potato masher, mash the beans until you have a coarse paste. Season to taste, then stir in the rice and remove from the heat."
+          },
+          {
+            "Step 2": "Scoop the avocado into a bowl and mash well with a fork, adding the lime juice as you go. Stir in the chopped chilli, tomatoes and coriander, then season to taste."
+          },
+          {
+            "Step 3": "Warm a flour tortilla in a dry frying pan over a medium heat. Put it on a chopping board, then spread a few tablespoons of the black bean and rice mixture in the centre. Spoon a quarter of the avocado mixture on top, then sprinkle on a quarter each of the chicken and the cheese and a few reserved coriander leaves. Roll up the tortilla tightly, tucking in the ends. Lay seam-side down on the chopping board, then prepare the other tortillas. Serve with hot sauce, if you like."
+          }
+        ],
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/4.jpg"
+      },
+      {
+        "id": "21",
+        "title": "Slow-cooked chipotle chicken",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/21.jpg"
+      },
+      {
+        "id": "28",
+        "title": "Slow-cooked chicken tinga tacos with pickled onions",
+        "difficulty": "Medium",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/28.jpg"
+      },
+      {
+        "id": "29",
+        "title": "Mexican chicken and red rice burrito bowls",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/29.jpg"
+      },
+      {
+        "id": "41",
+        "title": "Chicken and pepper pie with tortilla crisps",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/41.jpg"
+      },
+      {
+        "id": "44",
+        "title": "Easy Mexican chicken traybake",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/44.jpg"
+      },
+      {
+        "id": "47",
+        "title": "Mexican chicken and tortilla stew",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/47.jpg"
+      },
+      {
+        "id": "52",
+        "title": "Mexican chicken taco salad",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/52.jpg"
+      },
+      {
+        "id": "56",
+        "title": "Mexican chicken burgers",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/56.jpg"
+      },
+      {
+        "id": "68",
+        "title": "Spicy ancho chilli, chicken and chorizo hotpot",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/68.jpg"
+      },
+      {
+        "id": "71",
+        "title": "Green veg and chicken tacos with pea guacamole",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/71.jpg"
+      }
+    ]
+  },
+  {
+    "beef": [
+      {
+        "id": "13",
+        "title": "Mexican-style barbecued beef brisket with quick-pickled onions",
+        "difficulty": "Medium",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/13.jpg"
+      },
+      {
+        "id": "22",
+        "title": "Beef burrito bowls",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/22.jpg"
+      },
+      {
+        "id": "60",
+        "title": "Corned beef and bean hash with chimichurri",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/60.jpg"
+      },
+      {
+        "id": "73",
+        "title": "Smoky coriander beef fajitas",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/73.jpg"
+      },
+      {
+        "id": "75",
+        "title": "Braised beef chilli",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/75.jpg"
+      },
+      {
+        "id": "78",
+        "title": "Beef enchiladas",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/78.jpg"
+      },
+      {
+        "id": "83",
+        "title": "Beef fajitas with avocado and sweetcorn salsa",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/83.jpg"
+      },
+      {
+        "id": "94",
+        "title": "Beef chilli with dark chocolate",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/94.jpg"
+      }
+    ]
+  },
+  {
+    "fish": [
+      {
+        "id": "3",
+        "title": "Fishcake tacos",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/3.jpg"
+      },
+      {
+        "id": "24",
+        "title": "Ensenada fish tacos",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/24.jpg"
+      },
+      {
+        "id": "38",
+        "title": "Fish and chip tacos with pea guacamole",
+        "difficulty": "Medium",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/38.jpg"
+      },
+      {
+        "id": "57",
+        "title": "Mexican fish tacos",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/57.jpg"
+      },
+      {
+        "id": "124",
+        "title": "Blackened fish with mango salsa",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/124.jpg"
+      }
+    ]
+  },
+  {
+    "vegetables": [
+      {
+        "id": "84",
+        "title": "Vegetarian huevos rancheros",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/84.jpg"
+      },
+      {
+        "id": "104",
+        "title": "Vegetarian chilli",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/104.jpg"
+      },
+      {
+        "id": "148",
+        "title": "Cheat’s vegetable chilli jackets",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/148.jpg"
+      },
+      {
+        "id": "165",
+        "title": "Quick vegetarian quesadillas",
+        "difficulty": "Easy",
+        "image": "https://apipics.s3.amazonaws.com/mexican_api/165.jpg"
+      }
+    ]
+  }
+]

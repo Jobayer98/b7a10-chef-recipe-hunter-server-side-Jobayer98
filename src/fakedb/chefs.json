@@ -4,6 +4,7 @@
     "name": "Gordon Ramsay",
     "experience": 30,
     "numOfRecipes": 100,
+    "rating": 4.6,
     "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1474770962.1673623246&semt=robertav1_2_sidr",
     "recipes": [
       {
@@ -173,6 +174,7 @@
     "name": "Jamie Oliver",
     "experience": 20,
     "numOfRecipes": 75,
+    "rating": 4.4,
     "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1474770962.1673623246&semt=robertav1_2_sidr",
     "recipes": [
       {
@@ -343,6 +345,7 @@
     "name": "Bobby Flay",
     "experience": 25,
     "numOfRecipes": 80,
+    "rating": 4.7,
     "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1474770962.1673623246&semt=robertav1_2_sidr",
     "recipes": [
       {
@@ -512,6 +515,7 @@
     "name": "Ina Garten",
     "experience": 30,
     "numOfRecipes": 60,
+    "rating": 4.5,
     "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1474770962.1673623246&semt=robertav1_2_sidr",
     "recipes": [
       {
@@ -681,6 +685,7 @@
     "name": "Anthony Bourdain",
     "experience": 20,
     "numOfRecipes": 40,
+    "rating": 4.8,
     "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1474770962.1673623246&semt=robertav1_2_sidr",
     "recipes": [
       {
@@ -850,6 +855,7 @@
     "name": "Ming Tsai",
     "experience": 25,
     "numOfRecipes": 70,
+    "rating": 4.3,
     "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1474770962.1673623246&semt=robertav1_2_sidr",
     "recipes": [
       {
@@ -1019,6 +1025,7 @@
     "name": "Alice Waters",
     "experience": 40,
     "numOfRecipes": 30,
+    "rating": 4.0,
     "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1474770962.1673623246&semt=robertav1_2_sidr",
     "recipes": [
       {
@@ -1188,6 +1195,7 @@
     "name": "Emeril Lagasse",
     "experience": 30,
     "numOfRecipes": 90,
+    "rating": 4.5,
     "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1474770962.1673623246&semt=robertav1_2_sidr",
     "recipes": [
       {
@@ -1357,6 +1365,7 @@
     "name": "Julia Child",
     "experience": 50,
     "numOfRecipes": 20,
+    "rating": 4.6,
     "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1474770962.1673623246&semt=robertav1_2_sidr",
     "recipes": [
       {
@@ -1526,6 +1535,7 @@
     "name": "Nigella Lawson",
     "experience": 25,
     "numOfRecipes": 50,
+    "rating": 4.8,
     "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.1474770962.1673623246&semt=robertav1_2_sidr",
     "recipes": [
       {

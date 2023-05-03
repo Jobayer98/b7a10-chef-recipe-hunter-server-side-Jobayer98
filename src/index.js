@@ -6,6 +6,9 @@ const PORT = 3000;
 
 app.use(express.json());
 app.use(recipeRouter);
+app.use("/", (req, res) => {
+  res.send({ greet: "Welcome to server" });
+});
 
 app.use((error, req, res, next) => {
   res.status(404).send({ message: "404 Not Found" });

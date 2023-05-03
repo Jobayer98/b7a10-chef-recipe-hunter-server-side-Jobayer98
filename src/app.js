@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(recipeRouter);
 
 app.use((error, req, res, next) => {
-  res.status(400).send({ message: "Something went wrong" });
+  res.status(404).send({ message: "404 Not Found" });
 });
 
 app.listen(PORT, () => {
